@@ -1,0 +1,19 @@
+# Guias IT-online: Como abrir a linha de comandos (admin) no Windows 10
+
+[27/10/2015](https://itonlineblog.wordpress.com/2015/10/27/guias-it-online-como-abrir-a-linha-de-comandos-admin-no-windows-10/) by [nuno silva](https://itonlineblog.wordpress.com/author/nunofsilva/) [1 Comentário](https://itonlineblog.wordpress.com/2015/10/27/guias-it-online-como-abrir-a-linha-de-comandos-admin-no-windows-10/#comments)
+
+[![guias_itonline](https://itonlineblog.files.wordpress.com/2013/12/guias_itonline.png?w=130&h=129)](https://itonlineblog.files.wordpress.com/2013/12/guias_itonline.png)Quando abrimos uma janela da **linha de comandos** no **Windows**, por defeito não possuímos privilégios suficientes para a execução de determinados comandos. Para isso necessitamos de usar o “**elevated command prompt”** que surgiu pela primeira vez no **Windows Vista** e que nos permite executar comandos com **privilégios** de **administrador**.
+
+No **Windows 10**, existem diversas formas de **abrir** a **linha de comandos** com **elevação de privilégios**. Vejamos quais:
+
+**Menu Power User**
+
+Através da combinação de teclas **WIN + X** ou **clicando** com o **botão direito do rato** no **Iniciar**, vamos **abrir** o **Menu Power User** e **selecionar** a opção **“Linha de Comandos (admin)”**.[![Captura de Ecrã (11)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-11.png?w=512&h=400)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-11.png)**Menu Iniciar**
+
+Vamos **abrir** o **Menu Iniciar** e **escrever** “**cmd”**. Quando surgir o resultado da pesquisa, vamos **pressionar** em **simultâneo** as teclas **CTRL + SHIFT + Enter** para **abrir** uma **janela** com **elevação de privilégios**.[![Captura de Ecrã (12)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-12.png?w=519&h=500)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-12.png)**Explorador de ficheiros**
+
+Vamos **abrir** o **Explorador de ficheiros** através da combinação de teclas **WIN + E.** Em seguida, vamos **clicar** em **“Ficheiro”** – **“Abrir linha de comandos”** e **selecionar “Linha de comandos como administrador”**.[![Captura de Ecrã (15)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-151-e1445987009218.png?w=820&h=320)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-151.png)**Gestor de Tarefas**
+
+Vamos **clicar** com o **botão direito do rato** na **barra de tarefas** e **selecionar** **Gestor de Tarefas**. Em alternativa, podemos usar a combinação de teclas **CTRL + SHIFT + ESC**.[![Captura de Ecrã (16)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-161.png?w=820&h=242)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-161.png)Vamos **clicar** em **“Ficheiro”** e ao mesmo tempo que **pressionamos** a **tecla** **CTRL**, vamos **clicar** na opção **“Executar nova tarefa”**.[![Captura de Ecrã (9)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-9-e1445987053371.png?w=820&h=375)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-9.png)Em vez do tradicional **“Executar”**, será aberta uma janela da **linha de comandos** com **elevação de privilégios**.[![Captura de Ecrã (10)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-10-e1445987085248.png?w=820&h=349)](https://itonlineblog.files.wordpress.com/2015/10/captura-de-ecrc3a3-10-e1445987085248.png)**Nota:** Estes métodos podem também ser utilizados para abrir a linha de comandos (admin) no Windows 8.1.
+
+Como sempre, espero que este guia seja útil a todos os que visitam o IT-online.
